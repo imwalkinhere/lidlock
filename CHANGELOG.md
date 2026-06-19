@@ -16,9 +16,12 @@ Artifact:
 - `LidLock.dmg`
 - SHA-256: `fd4332c3b90b3924fe1a7fba31cde00881edbff7f6e1ddff8e96ec29dd2ce201`
 
-## 1.1.0 - 2026-06-19
+## 1.1.0 - 2026-06-19 (superseded)
 
 Password-free lid control release.
+
+This build was superseded by 1.1.1 after a helper validation bug was found. The
+public release asset was removed; use 1.1.1 or newer.
 
 - Added an optional signed privileged helper in Settings so Survive Lid Close
   can turn on and off without asking for the admin password every time.
